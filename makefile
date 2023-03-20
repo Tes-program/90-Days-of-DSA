@@ -5,4 +5,4 @@ add_changes:
 commit_changes:
 	git commit -m "${msg}"
 push_changes:
-	git push origin main
+	git push origin busta
