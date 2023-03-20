@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // Link: https://leetcode.com/problems/palindrome-number
-// Run: go run PalindromeNumber/palindromenumber.go
+// Run: go run PalindromeNumber/main.go
 
 func isPalindrome(x int) bool {
 	if x < 0 {

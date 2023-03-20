@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 // Link: https://leetcode.com/problems/two-sum
-// Run: go run TwoSum/twosum.go
+// Run: go run TwoSum/main.go
 
 func twoSum(nums []int, target int) []int {
 	hash := make(map[int]int, 0)

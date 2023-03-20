@@ -6,7 +6,7 @@ import (
 )
 
 // Link: https://leetcode.com/problems/reverse-integer/
-// Run: go run ReverseInteger/reverseinteger.go
+// Run: go run ReverseInteger/main.go
 
 func reverse(x int) int {
 	rev := 0
